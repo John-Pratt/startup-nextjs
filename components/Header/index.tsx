@@ -54,7 +54,7 @@ const Header = () => {
                 } `}
               >
                 <Image
-                  src="/images/logo/ndevtrans.png"
+                  src="/images/logo/ndevtrans1.png"
                   alt="logo"
                   width={140}
                   height={30}
