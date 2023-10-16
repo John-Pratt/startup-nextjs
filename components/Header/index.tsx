@@ -61,7 +61,7 @@ const Header = () => {
                   className="w-full dark:hidden"
                 />
                 <Image
-                  src="/images/logo/ndevsmall.png"
+                  src="/images/logo/ndevtrans1.png"
                   alt="logo"
                   width={140}
                   height={30}
